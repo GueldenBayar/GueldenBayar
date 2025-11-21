@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-**GueldenBayar/GueldenBayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
@@ -59,36 +55,11 @@
 
 </td></tr></table>  
 
-<br/>  
 
 
-## Connect with me  
-  
-
-<br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
