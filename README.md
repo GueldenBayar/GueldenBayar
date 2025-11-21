@@ -17,7 +17,7 @@
 - 🌱 Currently learning **Python & PHP**  
 - 🧠 Goal: Become a **full-stack developer**  
 - ⚡ Fun fact: I prefer **keyboard shortcuts** over using a mouse 😄⌨️  
-- 🌌 Hobbies: Dogs, tech, minimalism, music, creative coding  
+- 🌌 Hobbies: Dogs, tech, hiking, creative coding  
 
 ---
 
@@ -43,9 +43,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=gueldenbayar&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=20" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueldenbayar&layout=compact&theme=radical&hide_border=true&border_radius=20" height="165" />
 
 </div>
 
@@ -77,7 +77,6 @@ Features (WIP):
 
 ---
 
-## ✨ Fun Zone  
 
 ```python
 while True:
