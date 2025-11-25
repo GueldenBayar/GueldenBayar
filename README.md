@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=230&section=header&text=Hi%20I'm%20Guelden%20c👩🏻‍💻🚀&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=230&section=header&text=Hi%20I'm%20Guelden%20👩🏻‍💻🚀&fontSize=45&fontColor=ffffff" />
 </div>
 
 <br>
