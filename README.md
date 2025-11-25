@@ -13,7 +13,7 @@
 
 ## 🐾 About Me
 
-- 💖 I’m building a **neighborhood dog playdate matcher** app (for furry friends 🐕🐾)  
+- 💖 I’m building a **neighborhood dog playdate matching** app (for furry friends 🐕🐾)  
 - 🌱 Currently learning **Python & PHP**  
 - 🧠 Goal: Become a **full-stack developer**  
 - ⚡ Fun fact: I prefer **keyboard shortcuts** over using a mouse 😄⌨️  
