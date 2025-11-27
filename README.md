@@ -66,7 +66,7 @@ Features (WIP):
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 soon --> Connect With Me  
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white"></a>
