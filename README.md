@@ -6,8 +6,10 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Progress;Dog+Matchmaking+App+Creator+🐶❤️;Loves+Keyboard+Shortcuts+⌨️✨;Learning+Python+%26+PHP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Progress;Dog+Matchmaking+App+Creator+🐶❤️;Loves+Keyboard+Shortcuts+⌨️✨;Learning+Python+and+PHP" alt="Typing SVG" />
 </div>
+
+
 
 ---
 
@@ -35,18 +37,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" style="margin:10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="margin:10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" style="margin:10px;">
-</div>
-
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gueldenbayar&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gueldenbayar&layout=compact&theme=radical&hide_border=true&border_radius=20" height="165" />
-
 </div>
 
 ---
