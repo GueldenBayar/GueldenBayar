@@ -20,8 +20,8 @@
 - 💖 I’m building a **neighborhood dog playdate matching** app (for furry friends 🐕🐾)  
 - 🌱 Currently learning **Python & PHP**  
 - 🧠 Goal: Become a **full-stack developer**  
-- ⚡ Fun fact: I prefer **keyboard shortcuts** over using a mouse 😄⌨️  
-- 🌌 Hobbies: Dogs, tech, hiking, creative coding  
+- ⚡ Fun fact: I love **keyboard shortcuts** and my first crush is JavaScript 😄⌨️  
+- 🌌 Hobbies: Dogs, tech, hiking, architecture, coding  
 
 ---
 
