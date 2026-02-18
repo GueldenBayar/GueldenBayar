@@ -43,22 +43,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" hspace="10">
 </div>
 
-<br>
-
-<!-- Variante B: in zwei Zeilen aufgeteilt -->
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" hspace="10"><br>
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" hspace="10">
-  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" hspace="10">
-</div>
-
 ---
 
 ## 🐶 Current Project: Dog Playdate Matchmaker
