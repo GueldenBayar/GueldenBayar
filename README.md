@@ -17,48 +17,66 @@
 
 ## 🐾 About Me
 
-- 💖 I’m building a **neighborhood dog playdate matching** app (for furry friends 🐕🐾)  
-- 🌱 Currently learning **Python & PHP**  
-- 🧠 Goal: Become a **full-stack developer**  
-- ⚡ Fun fact: I love **keyboard shortcuts** and my first crush is JavaScript 😄⌨️  
-- 🌌 Hobbies: Dogs, tech, hiking, architecture, coding  
+- 💖 I’m building a **neighborhood dog playdate matching** app (for furry friends 🐕🐾)
+- 🌱 Currently learning **Python & PHP**
+- 🧠 Goal: Become a **full-stack developer**
+- ⚡ Fun fact: I love **keyboard shortcuts** and my first crush is JavaScript 😄⌨️
+- 🌌 Hobbies: Dogs, tech, hiking, architecture, coding
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend & Backend  
-<div style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="margin:10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" style="margin:10px;">
+### 🚀 Frontend & Backend
+
+<!-- Variante A: eine Zeile, automatischer Umbruch -->
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" hspace="10">
+</div>
+
+<br>
+
+<!-- Variante B: in zwei Zeilen aufgeteilt -->
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" hspace="10"><br>
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" hspace="10">
+  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" hspace="10">
 </div>
 
 ---
 
-## 🐶 Current Project: Dog Playdate Matchmaker  
+## 🐶 Current Project: Dog Playdate Matchmaker
 Building an app that helps dogs in the same neighborhood  
 👉 find **friends**,  
 👉 schedule **playdates**,  
-👉 and connect through their humans 💖🐕  
+👉 and connect through their humans 💖🐕
 
 Features (WIP):
-- 🗺️ Location-based matching  
-- 💬 Chat system  
-- 🐾 Dog profiles  
-- 🤝 Match suggestions  
-- 🏡 Neighborhood filter  
+- 🗺️ Location-based matching
+- 💬 Chat system
+- 🐾 Dog profiles
+- 🤝 Match suggestions
+- 🏡 Neighborhood filter
 
 ---
 
-## 🌍 soon --> Connect With Me  
+## 🌍 soon --> Connect With Me
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -75,13 +93,3 @@ while True:
     code()
     pet_dog()
     drink_coffee()
-
-
-
-
-
-
-
-
-
-
